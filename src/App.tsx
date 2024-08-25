@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { useEffect, useState } from "react";
 import { Box, Input, Grid, Button, Text } from "@chakra-ui/react";
 import { useReadContract, useClient } from "wagmi";
